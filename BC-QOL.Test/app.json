@@ -1,0 +1,56 @@
+{
+  "id": "b3085298-429d-4a84-a01a-83073f3b8897",
+  "name": "BC-QOL.Test",
+  "publisher": "AardvarkLabs",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "publisher": "Microsoft",
+      "name": "Library Assert",
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "version": "22.0.0.0"
+    },
+    {
+      "publisher": "Microsoft",
+      "name": "Any",
+      "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+      "version": "22.0.0.0"
+    },
+    {
+      "publisher": "AardvarkLabs",
+      "name": "Aardvark Labs Basic Customizations",
+      "id": "776d940f-fc7f-4a22-8901-3c34407df048",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "publisher": "Microsoft",
+      "version": "18.0.0.0",
+      "name": "Tests-TestLibraries"
+    }
+  ],
+  "screenshots": [],
+  "platform": "20.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 99999
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
